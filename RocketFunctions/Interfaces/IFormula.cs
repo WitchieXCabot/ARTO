@@ -1,7 +1,7 @@
-using RocketryMath.Models;
+using RocketFunctions.Models;
 using System.Collections.Generic;
 
-namespace RocketryMath.Interfaces
+namespace RocketFunctions.Interfaces
 {
     public interface IFormula
     {

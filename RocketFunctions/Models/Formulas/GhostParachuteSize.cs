@@ -1,9 +1,9 @@
-using RocketryMath.Interfaces;
+using RocketFunctions.Interfaces;
 using System;
 using System.Collections.Generic;
 using Units;
 
-namespace RocketryMath.Models.Formulas
+namespace RocketFunctions.Models.Formulas
 {
     public class GhostParachuteSize : IFormula
     {
